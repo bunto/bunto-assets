@@ -1,0 +1,5 @@
+backtrace.mask=true
+objectspace.enabled=true
+backtrace.color=true
+compat.version=2.2
+backtrace.style=mri
