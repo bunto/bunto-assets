@@ -2,10 +2,10 @@
 
 [travis]: https://travis-ci.org/bunto/bunto-assets
 
-# Bunto 3 Assets
+# Bunto Assets
 
-Bunto 3 assets is an asset pipeline using Sprockets 3 to build especially
-for Bunto 3. It utilizes new features of both Sprockets and Bunto to achieve
+Bunto assets is an asset pipeline using Sprockets (v3) to build especially
+for Bunto. It utilizes new features of both Sprockets and Bunto to achieve
 a clean and extensible assets platform for Bunto.
 
 ## Using Bunto Assets with Bunto
