@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/bunto/bunto-assets.svg?branch=master)][travis]
+[![Security](https://hakiri.io/github/bunto/bunto-assets/master.svg)][hakiri]
 
+[hakiri]: https://hakiri.io/github/bunto/bunto-assets/master
 [travis]: https://travis-ci.org/bunto/bunto-assets
 
 # Bunto Assets
