@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
 
   # Fix vulnerability in uglifier
   ## See https://hakiri.io/projects/b9cabcd1429b01/stacks/09837afd893a17/builds/cd223dfdc2a35b/warnings?name=Code+Injection
-  spec.add_runtime_dependency("uglifier, ">= 2.7.2")
+  spec.add_runtime_dependency("uglifier", ">= 2.7.2")
 
   spec.add_development_dependency("nokogiri", "~> 1.6")
   spec.add_development_dependency("luna-rspec-formatters", "~> 3.5")
